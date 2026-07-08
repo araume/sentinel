@@ -1,1 +1,1 @@
-# SENTINEL
+# SENTINEL Banking app
